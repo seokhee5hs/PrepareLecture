@@ -1,0 +1,6 @@
+{
+  "name": "한신대 교수 수업 준비 및 학사 관리 시스템",
+  "description": "한신대학교 전공 맞춤형 교수자 강의 준비 웹앱 - 16주차 진도 관리, 학생 Q&A 관리 및 AI 초안, 자동 채점 퀴즈 출제, 과제 제출 현황 및 평가 관리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
