@@ -6,6 +6,8 @@ import {registerApiRoutes} from './server/apiMiddleware.ts';
 
 export default defineConfig(() => {
   return {
+    // GitHub project Pages serves this app below /PrepareLecture/.
+    base: '/PrepareLecture/',
     plugins: [
       react(),
       tailwindcss(),
